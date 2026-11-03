@@ -78,4 +78,4 @@ The raw packet captures are not included in this repository (size and privacy).
 ## Author
 
 **Zhangir Seifullin** — Cyber Security graduate interested in SOC analysis and network security.
-[LinkedIn](https://www.linkedin.com/in/zhangir-seifullin-97ba93430)
+[LinkedIn](https://www.linkedin.com/in/zhangir-seifullin)
