@@ -1,0 +1,17 @@
+# Raw captures and generated data (not uploaded)
+dataset/
+*.pcap
+*.pcapng
+features*.csv
+results*/
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
